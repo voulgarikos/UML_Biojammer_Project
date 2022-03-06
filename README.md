@@ -8,5 +8,5 @@ Order_Java        : The java application which implements the marmelade order bu
 BioJammer Proposal: The file with the complete proposal for the client.
 
 
-![This is an image](Assets_jpg/UC_Fruit_Order_Mockup/Desktop Wireframe1.jpg)
+![This is an image](https://github.com/voulgarikos/UML_Biojammer_Project/blob/84eb382d7ac32f347b5c9e351475941527cbb1a1/Assets_jpg/UC_Fruit_Order_Mockup/Desktop%20Wireframe1.jpg)
 
